@@ -1,0 +1,7 @@
+{
+  "name": "Clínica Dental Ana Garcia",
+  "description": "Una aplicación web profesional para una clínica dental que ofrece servicios de odontología, citas en línea y un asistente dental inteligente impulsado por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
